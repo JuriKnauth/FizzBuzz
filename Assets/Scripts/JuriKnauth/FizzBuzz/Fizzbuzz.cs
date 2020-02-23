@@ -4,7 +4,6 @@ namespace JuriKnauth.FizzBuzz
 {
     public class FizzBuzz
     {
-        //Input
         private readonly BuzzWord[] _buzzWords;
         private readonly int _checkNumbersCount;
         private string[] _stringResults;
