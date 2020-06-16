@@ -14,7 +14,7 @@ namespace Tests
                 //Arrange
                 FizzBuzz fizzBuzz = new FizzBuzz(new BuzzWord[] {new BuzzWord(3, "Fizz")}, 100);
 
-            //Act
+                //Act
 
                 //Assert
                 Assert.AreEqual("Fizz", fizzBuzz.ReturnFizzBuzz(3));
